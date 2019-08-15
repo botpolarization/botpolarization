@@ -1,1 +1,1 @@
-
+This folder contains the codes to replicate the synthetic scenario results of our paper. One can generate a network of interest with desired number of nodes and polarization level with run_generate.py script. Then, RWC score of these generated networks can be computed by run_polarization.py script. Random removal tests described in the paper can be replicated by running the run_random_removal.py script. In the experiments and graphs folders, we share a sample of already generated networks and the results of conducted experiments.
